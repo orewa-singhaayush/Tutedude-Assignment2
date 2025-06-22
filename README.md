@@ -1,5 +1,4 @@
-# Tutedude-Assignment2
-Successfully completed task 1 and 2 of Assignment 2
+
 # Assignment 2: Control Structures in Python
 
 ## Overview
@@ -12,7 +11,7 @@ This assignment is part of the **Tutedude Python Course**.
 
 ## Tasks
 
-### âœ… Task 1: Check if a Number is Even or Odd
+### Task 1: Check if a Number is Even or Odd
 
 **Description:**  
 A Python script that:
@@ -28,7 +27,7 @@ The number is odd.
 
 ---
 
-### âœ… Task 2: Sum of Integers from 1 to 50 Using a Loop
+### Task 2: Sum of Integers from 1 to 50 Using a Loop
 
 **Description:**  
 A Python script that:
@@ -46,10 +45,10 @@ The sum of numbers from 1 to 50 is: 1275
 ## File Structure
 
 ```
-ðŸ“ Order
-â””â”€â”€ Readme.md
-â”œâ”€â”€ assignment2_task1.py
-â”œâ”€â”€ assignment2_task2.py
+Order
+ |–>Readme.md
+ |—>assignment2_task1.py
+ |—>assignment2_task2.py
 ```
 
 ---
@@ -71,11 +70,9 @@ No additional libraries are required.
 
 ## Submission Instructions
 
-- âœ… Both Python scripts are included.
-- âœ… README file is provided with detailed explanations.
-- âœ… Code is tested and runs correctly with valid inputs.
-
-Please upload this repository to GitHub and submit the link as instructed in the course.
+- ✅️ Both Python scripts are included.
+- ✅️ README file is provided with detailed explanations.
+- ✅️ Code is tested and runs correctly with valid inputs.
 
 ---
 
@@ -87,5 +84,4 @@ Please upload this repository to GitHub and submit the link as instructed in the
 
 ---
 
-## License 
-Only for learning and understanding the concept
+
