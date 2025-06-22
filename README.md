@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains solutions for **Assignment 2** of the Python programming course â€“ *Module 3: Control Structures in Python*. The goal is to practice using `if-else` statements and loops to solve basic programming problems.
+This repository contains solutions for **Assignment 2** of the Python programming course “ *Module 3: Control Structures in Python*. The goal is to practice using `if-else` statements and loops to solve basic programming problems.
 
 This assignment is part of the **Tutedude Python Course**.
 
